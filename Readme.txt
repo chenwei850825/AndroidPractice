@@ -1,0 +1,2 @@
+此次的assigment主要是把android app和 java application透過socket的方式去做連線，然後再利用java gui去顯示出彼此傳遞的訊息。
+遇到的問題主要是還尚未熟悉androidstudio的開發IDE及java socket、gui的實作，再參考助教所提供的範例code及之前assignment的code之後有了更深入的了解。
